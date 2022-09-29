@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+a:link {
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.art {
+ margin: 40px auto 40px auto;
+ width: 40%;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 40px 0 20px 0;
+}
+
+.bottom-container-text {
+  color: #EAF6F6;
+  margin: 60px auto 20px auto;
+  font-size: 0.75rem;
+  width: 50%;
+}
+
+.business {
+  color: #11999E;
+  line-height: 2;
+  position: relative;
+  top: 30px;
+  right: 40px;
+}
+
+.twitter {
+  color: #11999E;
+  line-height: 2;
+  position: relative;
+  top: 30px;
+}
+
+.website {
+  color: #11999E;
+  line-height: 2;
+  position: relative;
+  top: 30px;
+  left: 40px;
+}
+
+.headtext {
+  color: #40514E;
+  margin: 0 auto 100px auto;
+  width: 40%;
+}
+
+.profile {
+  margin: 50px auto 0 auto;
+}
+
+.contact-me {
+line-height: 2;
+}
+
+.fire {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-width: 8px;
+width: 8%;
+border-color: #40414E;
+margin: 10px auto 100px auto;
+}
+
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bolder;
+}
+
+.topcontainer {
+  background-color: #937DC2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 10px auto 100px auto;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+}
+
+.wand {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.jinbei {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
